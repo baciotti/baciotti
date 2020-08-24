@@ -12,7 +12,7 @@ Quando temos um tempo, o [Lucas](https://www.github.com/bacciotti)  e eu gravamo
 ### Livro
 Você pode baixar meu livro diretamente do site da [Editora Leanpub](http://leanpub.com/consistencia/c/GRATIS). Ele está disponível em formato PDF, MOBI e EPUB.
 
-[Imgur](https://imgur.com/rgcyhLr)
+![Capa do livro consistência](https://imgur.com/rgcyhLr)
 
 
 <!--
