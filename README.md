@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Meu nome é Tiago Bacciotti Moreira. Sou professor do curso de Sistemas de Informação e pesquiso sobre Gamification na educação e trabalho.
+Meu nome é Tiago Bacciotti Moreira. Sou professor do curso de Sistemas de Informação e pesquiso sobre Gamification na educação.
 
 ### Contato e redes
 Você pode me contatar por [e-mail](baciotti@gmail.com), [twitter](https://twitter.com/TiagoBacciotti) ou [linkedin](https://www.linkedin.com/in/bacciotti/). Please feel free to contact me in english  y también en español.
@@ -12,7 +12,6 @@ Quando temos um tempo, o [Lucas](https://www.github.com/bacciotti)  e eu gravamo
 ### Livro
 Você pode baixar meu livro diretamente do site da [Editora Leanpub](http://leanpub.com/consistencia/c/GRATIS). Ele está disponível em formato PDF, MOBI e EPUB.
 
-![Capa do livro consistência](https://imgur.com/rgcyhLr)
 
 
 <!--
