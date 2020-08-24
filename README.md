@@ -4,13 +4,13 @@ Meu nome é Tiago Bacciotti Moreira
 
 Sou professor e trabalho com TI há muitos anos. 
 
-# Contato e redes
+### Contato e redes
 Você pode me contatar por [e-mail](baciotti@gmail.com), [twitter](https://twitter.com/TiagoBacciotti) ou [linkedin](https://www.linkedin.com/in/bacciotti/).
 
 Please feel free to contact me in english  y también en español.
 
 
-# Textos
+## Textos
 Meus artigos estão disponíveis no [meu site](https://www.baciotti.com) e no [Medium](https://medium.com/@tiagobaciotti).
 Você pode baixar meu mais recente livro diretamente do site da [Editora Leanpub](http://leanpub.com/consistencia/c/GRATIS). Ele está disponível em formato PDF, MOBI e EPUB.
 
