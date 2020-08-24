@@ -1,37 +1,24 @@
 ### Olá 👋
 
-Meu nome é Tiago Bacciotti Moreira
-
-Sou professor e trabalho com TI há muitos anos. 
+Meu nome é Tiago Bacciotti Moreira. Sou professor do curso de Sistemas de Informação e pesquiso sobre Gamification na educação e trabalho.
 
 ### Contato e redes
-Você pode me contatar por [e-mail](baciotti@gmail.com), [twitter](https://twitter.com/TiagoBacciotti) ou [linkedin](https://www.linkedin.com/in/bacciotti/).
+Você pode me contatar por [e-mail](baciotti@gmail.com), [twitter](https://twitter.com/TiagoBacciotti) ou [linkedin](https://www.linkedin.com/in/bacciotti/). Please feel free to contact me in english  y también en español.
 
-Please feel free to contact me in english  y también en español.
+Meus artigos estão disponíveis no [meu site](https://www.baciotti.com) e no [Medium](https://medium.com/@tiagobaciotti). Meus cursos estão disponíveis na [Udemy](https://www.udemy.com/user/tiagobaciottimoreira). Aqui tem também meu [last.fm](http://www.lastfm.com/user/baciotti), [steam](http://steamcommunity.com/id/baciotti) e nosso [canal no telegram](https://t.me/baciotti).
 
+Temos um canal no Youtube com aulas e tutoriais. Acesse [aqui](https://www.youtube.com/c/TiagoBacciottiMoreira). 
 
-## Textos
-Meus artigos estão disponíveis no [meu site](https://www.baciotti.com) e no [Medium](https://medium.com/@tiagobaciotti).
-Você pode baixar meu mais recente livro diretamente do site da [Editora Leanpub](http://leanpub.com/consistencia/c/GRATIS). Ele está disponível em formato PDF, MOBI e EPUB.
+Meu Lattes está [aqui](http://lattes.cnpq.br/4325667311288875).
 
-
-Aqui tem também meu [last.fm](http://www.lastfm.com/user/baciotti), [steam](http://steamcommunity.com/id/baciotti) e nosso [canal no telegram](https://t.me/baciotti)
-
-
-# Cursos
-Meus cursos estão disponíveis na [Udemy](https://www.udemy.com/user/tiagobaciottimoreira)
-
-
-# Canal no Youtube
-Temos um canal no Youtube com aulas e tutoriais. Acesse [aqui](https://www.youtube.com/c/TiagoBacciottiMoreira)
-
-
-# Podcast
 Quando temos um tempo, o [Lucas](https://www.github.com/bacciotti) gravamos um podcast. Escute e siga [aqui no Spotify](https://open.spotify.com/show/6smxOXyNz65trz7SECJHIt).
 
 
-# Curriculum Lattes
-PHD Candidate pesquisando sobre Gamification na Educação. Meu Lattes está [aqui](http://lattes.cnpq.br/4325667311288875).
+### Livro
+Você pode baixar meu livro diretamente do site da [Editora Leanpub](http://leanpub.com/consistencia/c/GRATIS). Ele está disponível em formato PDF, MOBI e EPUB.
+
+
+
 
 
 
